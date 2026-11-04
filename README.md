@@ -187,7 +187,9 @@ text
 ### 🚀 التثبيت
 ```bash
 npm install ahm-space
+---
 💻 مثال على الاستخدام
+---
 ```
 ```javascript
 const AhmSpace = require('ahm-space');
@@ -226,7 +228,9 @@ markdown
 ```bash
 npm install ahm-space
 ```
+---
 💻 Пример использования
+---
 ```javascript
 const AhmSpace = require('ahm-space');
 
@@ -243,7 +247,7 @@ console.log(`Азимут: ${dishAngle.azimuth}°, Возвышение: ${dishA
 
 text
 
-### ⭐ بخش پایانی (کپی کن و آخر همه پیست کن)
+
 
 ```markdown
 ---
