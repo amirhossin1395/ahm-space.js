@@ -32,6 +32,7 @@
 ### 🚀 Installation
 ```bash
 npm install ahm-space
+```
 ---
 💻 Usage Example
 ---
@@ -79,6 +80,7 @@ ahm-space.js یک کتابخانه جاوااسکریپت فوق‌سبک و ب�
 ---
 ```bash
 npm install ahm-space
+```
 ---
 💻 مثال استفاده
 ---
