@@ -29,10 +29,6 @@
 - **Satellite Tracking:** Calculate precise Azimuth and Elevation angles for satellite dish alignment based on geographic coordinates.
 - **Astrology:** Determine zodiac signs based on birth dates.
 ---
-### 🚀 Installation
-```bash
-npm install ahm-space
-```
 ---
 💻 Usage Example
 ---
