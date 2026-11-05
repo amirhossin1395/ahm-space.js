@@ -4,7 +4,6 @@
 
 ### A professional, ultra-lightweight JavaScript library for space, astronomy, and cosmological calculations. 🌌
 
-[![npm version](https://img.shields.io/badge/npm-v1.0.0-blue?style=for-the-badge&logo=npm)](https://www.npmjs.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Made by AHM](https://img.shields.io/badge/Made%20by-Amirhossein%20Haji%20Moradkhani-10b981?style=for-the-badge)](https://github.com/amirhossin1395)
@@ -100,24 +99,6 @@ console.log(`شعاع شوارتزشیلد: ${blackHoleRadius / 1000} کیلوم
 این پروژه تحت لایسنس MIT منتشر شده است.
 
 </div>
-
- ---
-
-## 🇨🇳 中文
-
-### 📖 关于
-**AhmSpace.js** 是一个零依赖、超轻量级的 JavaScript 库，专为需要在 Web 应用程序中进行精确的天文、物理和宇宙学计算的开发者而设计。无论您是在构建卫星跟踪器、太空游戏还是教育平台，AhmSpace.js 都能提供您所需的数学核心。
-
-### ✨ 功能特点
-- **引力物理：** 计算两个质量之间的引力、逃逸速度和轨道速度。
-- **轨道力学：** 使用开普勒第三定律计算天体的轨道周期。
-- **相对论物理：** 计算接近光速运动的物体的时间膨胀。
-- **天体物理学：** 计算黑洞的史瓦西半径（事件视界）。
-- **宇宙学：** 估算宇宙年龄并计算不同红移下的宇宙微波背景（CMB）温度。
-- **卫星跟踪：** 根据地理坐标计算用于卫星天线对准的精确方位角和仰角。
-- **占星术：** 根据出生日期确定星座。
-
-```
 ---
 
 ## 🇨🇳 中文
@@ -146,7 +127,9 @@ console.log(`地球逃逸速度: ${earthEscapeVelocity} m/s`);
 const dishAngle = AhmSpace.calculateDishAngle(30.28, 57.08, 0, 0);
 console.log(`方位角: ${dishAngle.azimuth}°, 仰角: ${dishAngle.elevation}°`);
 ```
-🛡️ 许可证
+---
+许可证
+---
 本项目采用 MIT 许可证。
 
 text
