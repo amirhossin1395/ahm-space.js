@@ -42,20 +42,23 @@ In the root of your project, create a file named `.npmrc` and add the following 
 @amirhossin1395:registry=https://npm.pkg.github.com
 //npm.pkg.github.com/:_authToken=YOUR_GITHUB_TOKEN
 (Replace YOUR_GITHUB_TOKEN with the token you created).
-
+---
 3. Install the package
-
+---
 bash
 npm install @amirhossin1395/ahm-space
+---
 4. Use it in your code
-
+---
 javascript
 const AhmSpace = require('@amirhossin1395/ahm-space');
 
 // Calculate your weight on Mars
 const weightOnMars = AhmSpace.calculateWeight(50, 'Mars');
 console.log(`Weight on Mars: ${weightOnMars} kg`);
+---
 🛡️ License
+---
 This project is licensed under the MIT License.
 
 <div dir="rtl">
