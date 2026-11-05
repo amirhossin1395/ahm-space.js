@@ -1,18 +1,3 @@
-<div align="center">
-
-# 🚀 AhmSpace.js (v3.14.9)
-
-### A professional, ultra-lightweight JavaScript library for space, astronomy, and cosmological calculations. 🌌
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-[English](#-english) • [فارسی](#-فارسی) • [中文](#-中文) • [العربية](#-العربية) • [Русский](#-русский)
-
-</div>
-
----
-
 ## 🇬🇧 English
 
 ### 📖 About
@@ -28,27 +13,14 @@
 - **Planetary Weight:** Calculate how much you would weigh on Mars, the Moon, or Jupiter.
 - **Astronomical Tools:** Sunrise/Sunset times, Moon phases, Planetary positions, Earth rotation speed, and Julian Date conversion.
 
-### 📦 Installation & Usage (For Developers)
+### 📦 Installation & Usage
 
-Since `ahm-space` is hosted on **GitHub Packages**, follow these steps to install it in your project:
+Since `ahm-space` is hosted on **GitHub Packages**, follow these steps:
 
-**1. Create a Personal Access Token (PAT)**
-Go to your GitHub **Settings > Developer settings > Personal access tokens > Tokens (classic)** and generate a token with the `read:packages` scope.
-
-**2. Create an `.npmrc` file**
-In the root of your project, create a file named `.npmrc` and add the following lines:
+**1. Create an `.npmrc` file in your project root:**
 ```text
 @amirhossin1395:registry=https://npm.pkg.github.com
 //npm.pkg.github.com/:_authToken=YOUR_GITHUB_TOKEN
-**3. Install the package**
-npm install @amirhossin1395/ahm-space
-
-**4. Use it in your code**
-const AhmSpace = require('@amirhossin1395/ahm-space');
-
-// Calculate your weight on Mars (if you weigh 50kg on Earth)
-const weightOnMars = AhmSpace.calculateWeight(50, 'Mars');
-console.log(`Weight on Mars: ${weightOnMars} kg`);
 
 ### 🛡️ License
 This project is licensed under the MIT License.
