@@ -1,5 +1,5 @@
 {
-  "name": "ahm-space",
+"name": "@amirhossin1395/ahm-space",
   "version": "3.14.9",
   "description": "A professional JavaScript library for space, astronomy, cosmological calculations, and planetary data.",
   "main": "ahm-space.js",
