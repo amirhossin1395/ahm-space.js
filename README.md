@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 AhmSpace.js (v3.14.9)
+# 🚀 AhmSpace.js 
 
 ### A professional, ultra-lightweight JavaScript library for space, astronomy, and cosmological calculations. 🌌
 
