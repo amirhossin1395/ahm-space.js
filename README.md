@@ -117,9 +117,6 @@ console.log(`شعاع شوارتزشیلد: ${blackHoleRadius / 1000} کیلوم
 - **卫星跟踪：** 根据地理坐标计算用于卫星天线对准的精确方位角和仰角。
 - **占星术：** 根据出生日期确定星座。
 
-### 🚀 安装
-```bash
-npm install ahm-space
 ```
 ---
 
@@ -229,11 +226,9 @@ console.log(`Азимут: ${dishAngle.azimuth}°, Возвышение: ${dishA
 🛡️ Лицензия
 Этот проект распространяется под лицензией MIT.
 
-text
 
 
 
-```markdown
 ---
 
 <div align="center">
