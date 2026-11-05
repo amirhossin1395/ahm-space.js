@@ -212,6 +212,7 @@ markdown
 ---
 💻 Пример использования
 ---
+```
 ```javascript
 const AhmSpace = require('ahm-space');
 
